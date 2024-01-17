@@ -1,0 +1,1 @@
+console.log("in the 2n day i study a little bit off git and github to know some details!!!")
