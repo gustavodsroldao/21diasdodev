@@ -1,8 +1,7 @@
 //criando as váriaves
 let valor 
 let quantidade
-let opcao = prompt("Bem vindo ao DoDev-Thru, qual seria o seu pedido hoje? " + 
- "\n1 - Abastecer com gasolina; \n2 - Abastecer com alcool; \n3 - Calibrar os pneus")
+let opcao = prompt(`Bem vindo ao Gustavinho-Thru, qual seria o seu pedido hoje? \n1 - Abastecer com gasolina; \n2 - Abastecer com alcool; \n3 - Calibrar os pneus`)
 
  //criando as switch cases
  switch (opcao) { 

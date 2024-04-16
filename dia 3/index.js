@@ -15,4 +15,4 @@ let imc = 0
 imc = peso / (altura * altura)
 
 console.log("Olá! " + nome + ", aqui no nosso sistema conta que você tem " + idade + " anos, e que nasceu em " + nascimento + ", tens "
-             + altura + ", de altura, e pesas " + peso + " kg, e seu IMC é de " + imc + "kg/m².")
+             + altura + ", de altura, e pesas " + peso + " kg, e seu IMC é de " + imc + "kg/m².")A
